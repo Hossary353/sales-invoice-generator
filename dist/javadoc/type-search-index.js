@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cotrollers","l":"Controllerflow"},{"p":"view","l":"InvoiceFrame"},{"p":"model","l":"InvoiceHeader"},{"p":"model","l":"InvoiceLine"},{"p":"view","l":"InvoicePopup"},{"p":"model","l":"InvoicesTableModel"},{"p":"view","l":"LinePopup"},{"p":"model","l":"LinesTableModel"}];updateSearchResults();
